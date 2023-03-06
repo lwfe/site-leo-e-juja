@@ -8,6 +8,9 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    minWidth: {
+      'half': '450px'
+    },
     extend: {},
     colors: {
       'dark-emo': '#191B18',
