@@ -1,5 +1,5 @@
 import Image from "next/image";
-import gojo from "../assets/gojo-sensei.png"
+import gojo from "../../public/gojo-sensei.png"
 
 export default function Home() {
   return (
