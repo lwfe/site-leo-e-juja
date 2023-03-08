@@ -1,7 +1,7 @@
 import Image from "next/image";
-import Waves from '@/assets/waves.svg'
-import LeoeJuju from '@/assets/leoejuju.svg'
-import Sakura from '@/assets/sakura.svg'
+import Waves from '../../../public/waves.svg'
+import LeoeJuju from '../../../public/leoejuju.svg'
+import Sakura from '../../../public/sakura.svg'
 
 export default function Home() {
   return (
